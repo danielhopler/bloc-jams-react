@@ -2,9 +2,10 @@
   "name": "bloc-jams-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielhopler.github.io/react-bloc-jams",
+  "homepage": "https://danielhopler.github.io/bloc-jams-react",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
